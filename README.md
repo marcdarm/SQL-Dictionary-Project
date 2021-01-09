@@ -4,4 +4,6 @@ As I was browsing the web, looking for ideas on how to improve my SQL skills by 
 
 ...
 
-I fixed errors in Excel by highlighting the "words" column and using the "Go To Special..." function.
+I fixed errors in Excel by highlighting the "words" column and using the "Go To Special..." function and used "Find & Select" to get rid of entries that included spaces.
+
+Using the LEN function, I was able to determine that the longest entry was 21 characters long which served useful when creating the table using SQL. I saved the list as a separate CSV to later import into PostgreSQL.
